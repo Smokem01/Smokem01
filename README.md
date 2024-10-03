@@ -19,12 +19,6 @@ I contributed to this project by improving the algorithmic part, assisting in po
 Tech Stack: YOLOv8, Python, OpenCV, TensorFlow  
 Focus: Object detection, traffic sign analysis, deep learning  
 
-## 🛣️ YOLOv8 Road Sign Detection  
-A project utilizing YOLOv8 for real-time road sign detection. The model is trained on various traffic sign datasets to recognize and classify signs accurately in different environments, enhancing autonomous driving systems.  
-
-Tech Stack: YOLOv8, Python, OpenCV, PyTorch  
-Focus: Real-time object detection, autonomous vehicles, traffic sign classification  
-
 ## 📫 Get in Touch
 LinkedIn: https://www.linkedin.com/in/feres-baba-7420ba225/  
 Email: feres.baba18@outlook.com  
